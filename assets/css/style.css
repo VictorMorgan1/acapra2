@@ -94,31 +94,32 @@ nav {
 }
 
 .rodape {
-    background-color: red;
-    margin-top: 30px;
+background-color: red;
+margin-top: 30px;
 }
 
 .rodape-info {
-    list-style: none;
-    text-align: center;
+list-style: none;
+text-align: center;
+
 }
 
 .rodape-info a {
-    color: white;
-    text-decoration: none;
-    line-height: 1.2;
+color: white;
+text-decoration: none;
+line-height: 1.2;
 }
 
 .rodape-info p {
-    color: white;
-    font-size: 20px;
-    padding: 20px;
-    text-decoration: none;
+color: white;
+font-size: 20px;
+padding: 20px;
+text-decoration: none;
 }
 
-.rodape-info a:hover {
-    text-decoration: underline;
-    cursor: pointer;
+.rodape-info:hover a {
+text-decoration: underline;
+cursor: pointer;
 }
 
 .titulo-paginas h1 {
