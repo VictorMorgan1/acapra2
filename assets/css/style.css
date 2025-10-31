@@ -101,7 +101,6 @@ nav {
 .rodape-info {
     list-style: none;
     text-align: center;
-
 }
 
 .rodape-info a {
@@ -117,7 +116,7 @@ nav {
     text-decoration: none;
 }
 
-.rodape-info:hover a {
+.rodape-info a:hover {
     text-decoration: underline;
     cursor: pointer;
 }
